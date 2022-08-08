@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Testando PHP</h1>
+    <?php
+        echo "Olá, mundo!";
+    ?>
     
 </body>
 </html>
